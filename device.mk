@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/samsung/a60q
+LOCAL_PATH := device/samsung/m40
 
