@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_a60q-userdebug
-add_lunch_combo omni_a60q-eng
+add_lunch_combo omni_m40-userdebug
+add_lunch_combo omni_m40-eng
